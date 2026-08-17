@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Large/generated datasets
+data/*.csv
+
+# Optional: trained models can be excluded from Git
+# Uncomment these if the .keras files are large
+# models/*.keras
+
+# Temporary files
+*.log

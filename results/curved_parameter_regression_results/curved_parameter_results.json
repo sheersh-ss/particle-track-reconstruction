@@ -1,0 +1,26 @@
+{
+    "theta_mae_radians": 0.021750789135694504,
+    "theta_mae_degrees": 1.2462284185542987,
+    "theta_rmse_degrees": 1.6206560804815184,
+    "theta_median_absolute_error_degrees": 0.9994205236434937,
+    "theta_95_percentile_error_degrees": 3.256119966506958,
+    "pt_mae": 0.38466861844062805,
+    "pt_rmse": 0.4879978895187378,
+    "pt_mape_percent": 2.9303112030029297,
+    "pt_median_absolute_error": 0.3188619613647461,
+    "pt_95_percentile_error": 0.9436813592910767,
+    "charge_accuracy": 1.0,
+    "training_tracks": 69687,
+    "validation_tracks": 14894,
+    "test_tracks": 15049,
+    "pt_training_mean": 14.98302173614502,
+    "pt_training_std": 5.783236980438232,
+    "performance_by_hit_count": {
+        "5": {
+            "n_tracks": 15049,
+            "theta_mae_degrees": 1.2462284564971924,
+            "pt_mae": 0.38466861844062805,
+            "charge_accuracy": 1.0
+        }
+    }
+}
