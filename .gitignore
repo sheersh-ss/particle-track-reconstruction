@@ -13,7 +13,7 @@ venv/
 .DS_Store
 
 # Large/generated datasets
-data/*.csv
+#data/*.csv
 
 # Optional: trained models can be excluded from Git
 # Uncomment these if the .keras files are large
